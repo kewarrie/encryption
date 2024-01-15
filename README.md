@@ -2,7 +2,7 @@
 
 Fun project to explore how encryption algorithms work.
 
-### Alorigthms explored so far
+### Algorithms explored so far
 - [RSA](https://stuvel.eu/python-rsa-doc/usage.html)
 - [Fernet](https://cryptography.io/en/latest/fernet/)
 
@@ -21,5 +21,5 @@ pip install -r requirements.txt
 python3 [filename.py]
 ```
 
-### Dependencis
+### Dependencies
 Refer to the `requirements.txt` file.
