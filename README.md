@@ -3,8 +3,8 @@
 Fun project to explore how encryption algorithms work.
 
 ### Alorigthms explored so far
-- (RSA)[https://stuvel.eu/python-rsa-doc/usage.html]
-- (Fernet)[https://cryptography.io/en/latest/fernet/]
+- [RSA](https://stuvel.eu/python-rsa-doc/usage.html)
+- [Fernet](https://cryptography.io/en/latest/fernet/)
 
 ### How to run the code
 1. Clone this repository to your local drive.
